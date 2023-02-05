@@ -1,0 +1,3462 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.566802,
+          45.496897
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2012 _ 11119",
+            "date_x": "2012/07/04",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2014 _ 7124",
+            "date_x": "2014/06/30",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2017 _ 7657",
+            "date_x": "2017/07/31",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.574687,
+          45.500891
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2012 _ 11567",
+            "date_x": "2012/10/22",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2016 _ 7074",
+            "date_x": "2016/03/19",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5611,
+          45.515316
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2012 _ 12276",
+            "date_x": "2012/06/01",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2012 _ 12524",
+            "date_x": "2012/08/23",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2016 _ 8246",
+            "date_x": "2016/05/23",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2018 _ 8515",
+            "date_x": "2018/07/21",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.561495,
+          45.508791
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2012 _ 12699",
+            "date_x": "2012/10/19",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2019 _ 7276",
+            "date_x": "2019/01/12",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": "camion"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56134,
+          45.535923
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2012 _ 13781",
+            "date_x": "2012/11/26",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2016 _ 9490",
+            "date_x": "2016/11/11",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.626553,
+          45.482708
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2012 _ 15787",
+            "date_x": "2012/03/30",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2014 _ 10339",
+            "date_x": "2014/02/12",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.613588,
+          45.53995
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2012 _ 21176",
+            "date_x": "2012/05/29",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "1",
+            "NB_BLESSES_GRAVES_x": 0,
+            "type_vehicule": "camion"
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2018 _ 14405",
+            "date_x": "2018/01/28",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.569435,
+          45.512499
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2012 _ 22941",
+            "date_x": "2012/03/28",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 2,
+            "NB_MORTS_x": "1",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": "camion"
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2016 _ 8654",
+            "date_x": "2016/10/28",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.568505,
+          45.519852
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2012 _ 23034",
+            "date_x": "2012/04/28",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2018 _ 16051",
+            "date_x": "2018/12/03",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.582919,
+          45.523963
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2012 _ 23300",
+            "date_x": "2012/07/23",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "1",
+            "NB_BLESSES_GRAVES_x": 0,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2013 _ 22701",
+            "date_x": "2013/01/16",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2013 _ 23526",
+            "date_x": "2013/09/14",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2014 _ 15519",
+            "date_x": "2014/07/20",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2016 _ 15397",
+            "date_x": "2016/04/16",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2019 _ 13904",
+            "date_x": "2019/06/11",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": "taxi"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.578744,
+          45.511078
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2012 _ 23712",
+            "date_x": "2012/11/12",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2017 _ 16213",
+            "date_x": "2017/09/14",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "1",
+            "NB_BLESSES_GRAVES_x": 0,
+            "type_vehicule": "autobus"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.638552,
+          45.593178
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2012 _ 25083",
+            "date_x": "2012/12/02",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2015 _ 16817",
+            "date_x": "2015/07/15",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.584526,
+          45.574882
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2012 _ 25800",
+            "date_x": "2012/06/08",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2017 _ 17980",
+            "date_x": "2017/05/26",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.614487,
+          45.588747
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2012 _ 25846",
+            "date_x": "2012/06/21",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2017 _ 18201",
+            "date_x": "2017/08/27",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.61188,
+          45.599133
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2012 _ 26075",
+            "date_x": "2012/08/26",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2015 _ 18138",
+            "date_x": "2015/12/15",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.506953,
+          45.663578
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2012 _ 31083",
+            "date_x": "2012/12/21",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2018 _ 20933",
+            "date_x": "2018/09/05",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.81386,
+          45.510931
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2012 _ 424",
+            "date_x": "2012/08/20",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2019 _ 449",
+            "date_x": "2019/12/09",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.69273,
+          45.44189
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2012 _ 4514",
+            "date_x": "2012/10/19",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2014 _ 2775",
+            "date_x": "2014/10/07",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "1",
+            "NB_BLESSES_GRAVES_x": 0,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.681014,
+          45.534263
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2012 _ 5569",
+            "date_x": "2012/08/23",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2013 _ 5119",
+            "date_x": "2013/01/10",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2014 _ 3152",
+            "date_x": "2014/01/29",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.609686,
+          45.447671
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2012 _ 7660",
+            "date_x": "2012/02/29",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2016 _ 4836",
+            "date_x": "2016/01/07",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.838298,
+          45.476712
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2013 _ 1010",
+            "date_x": "2013/09/23",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": "camion"
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2019 _ 756",
+            "date_x": "2019/12/03",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.563408,
+          45.499663
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2013 _ 10525",
+            "date_x": "2013/01/15",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "1",
+            "NB_BLESSES_GRAVES_x": 0,
+            "type_vehicule": "camion"
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2019 _ 7124",
+            "date_x": "2019/10/17",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.577045,
+          45.495829
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2013 _ 10953",
+            "date_x": "2013/04/29",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 2,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 2,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2014 _ 6847",
+            "date_x": "2014/04/03",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "1",
+            "NB_BLESSES_GRAVES_x": 0,
+            "type_vehicule": "camion"
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2014 _ 6857",
+            "date_x": "2014/04/08",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.572264,
+          45.496564
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2013 _ 11869",
+            "date_x": "2013/12/30",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2018 _ 7964",
+            "date_x": "2018/11/16",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56429,
+          45.517897
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2013 _ 12667",
+            "date_x": "2013/09/14",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2015 _ 8315",
+            "date_x": "2015/09/11",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2019 _ 7810",
+            "date_x": "2019/10/28",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.562479,
+          45.507667
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2013 _ 12856",
+            "date_x": "2013/11/21",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": "taxi"
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2014 _ 8150",
+            "date_x": "2014/08/27",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 2,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 2,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2014 _ 8193",
+            "date_x": "2014/09/18",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.552357,
+          45.5226
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2013 _ 13204",
+            "date_x": "2013/04/07",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": "taxi"
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2019 _ 8567",
+            "date_x": "2019/12/29",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.559132,
+          45.534974
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2013 _ 13214",
+            "date_x": "2013/04/09",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2016 _ 9038",
+            "date_x": "2016/05/22",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2019 _ 8306",
+            "date_x": "2019/07/28",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "1",
+            "NB_BLESSES_GRAVES_x": 0,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.550364,
+          45.524824
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2013 _ 13464",
+            "date_x": "2013/07/07",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2017 _ 9466",
+            "date_x": "2017/10/24",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.563042,
+          45.530764
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2013 _ 13471",
+            "date_x": "2013/07/10",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": "autobus"
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2016 _ 9093",
+            "date_x": "2016/06/10",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5551,
+          45.521848
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2013 _ 13626",
+            "date_x": "2013/09/07",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2017 _ 9040",
+            "date_x": "2017/04/10",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "1",
+            "NB_BLESSES_GRAVES_x": 0,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.548331,
+          45.539598
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2013 _ 14056",
+            "date_x": "2013/02/08",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": "taxi"
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2019 _ 8696",
+            "date_x": "2019/03/16",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.551418,
+          45.54682
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2013 _ 14257",
+            "date_x": "2013/05/04",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2015 _ 9667",
+            "date_x": "2015/07/16",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.642135,
+          45.48968
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2013 _ 15593",
+            "date_x": "2013/02/07",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2015 _ 10952",
+            "date_x": "2015/02/27",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.668116,
+          45.555194
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2013 _ 17183",
+            "date_x": "2013/02/01",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": "taxi"
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2018 _ 12267",
+            "date_x": "2018/08/07",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2019 _ 11066",
+            "date_x": "2019/09/18",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.602858,
+          45.566476
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2013 _ 19240",
+            "date_x": "2013/11/01",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2016 _ 13158",
+            "date_x": "2016/11/15",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": "camion"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.62995,
+          45.541305
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2013 _ 19922",
+            "date_x": "2013/07/15",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2018 _ 13936",
+            "date_x": "2018/11/04",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "1",
+            "NB_BLESSES_GRAVES_x": 0,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.600069,
+          45.544772
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2013 _ 21203",
+            "date_x": "2013/05/25",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2018 _ 14659",
+            "date_x": "2018/06/19",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "1",
+            "NB_BLESSES_GRAVES_x": 0,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.608443,
+          45.540904
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2013 _ 21230",
+            "date_x": "2013/06/04",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2017 _ 15029",
+            "date_x": "2017/07/24",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.595808,
+          45.519621
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2013 _ 22151",
+            "date_x": "2013/05/21",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": "camion"
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2017 _ 15919",
+            "date_x": "2017/06/27",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.602214,
+          45.522207
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2013 _ 22283",
+            "date_x": "2013/07/18",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "1",
+            "NB_BLESSES_GRAVES_x": 0,
+            "type_vehicule": "autobus"
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2014 _ 15065",
+            "date_x": "2014/11/24",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2015 _ 15815",
+            "date_x": "2015/09/06",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.589482,
+          45.526951
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2013 _ 22532",
+            "date_x": "2013/11/01",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "1",
+            "NB_BLESSES_GRAVES_x": 0,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2015 _ 15711",
+            "date_x": "2015/08/09",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2016 _ 16187",
+            "date_x": "2016/10/30",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2018 _ 15587",
+            "date_x": "2018/07/10",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57255,
+          45.58284
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2013 _ 26110",
+            "date_x": "2013/08/07",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2017 _ 17723",
+            "date_x": "2017/02/03",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.579738,
+          45.562539
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2013 _ 27487",
+            "date_x": "2013/09/17",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2017 _ 18811",
+            "date_x": "2017/05/29",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "1",
+            "NB_BLESSES_GRAVES_x": 0,
+            "type_vehicule": "autobus"
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2018 _ 18279",
+            "date_x": "2018/03/08",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "1",
+            "NB_BLESSES_GRAVES_x": 0,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.677221,
+          45.504389
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2013 _ 3799",
+            "date_x": "2013/10/26",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2017 _ 2231",
+            "date_x": "2017/08/19",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "1",
+            "NB_BLESSES_GRAVES_x": 0,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.587673,
+          45.491505
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2013 _ 7020",
+            "date_x": "2013/04/22",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2015 _ 4621",
+            "date_x": "2015/10/29",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.560583,
+          45.483813
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2013 _ 8971",
+            "date_x": "2013/03/17",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": "autobus"
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2015 _ 6295",
+            "date_x": "2015/12/21",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.572268,
+          45.477694
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2013 _ 9111",
+            "date_x": "2013/05/01",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 2,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 2,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2015 _ 5902",
+            "date_x": "2015/07/02",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.569363,
+          45.478463
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2013 _ 9663",
+            "date_x": "2013/10/19",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": "autobus"
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2014 _ 5882",
+            "date_x": "2014/07/22",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": "autobus"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.617029,
+          45.505289
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2014 _ 10315",
+            "date_x": "2014/02/05",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": "taxi"
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2017 _ 11608",
+            "date_x": "2017/10/12",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.626276,
+          45.486982
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2014 _ 11110",
+            "date_x": "2014/11/27",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2016 _ 10690",
+            "date_x": "2016/02/03",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.624021,
+          45.527367
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2014 _ 13707",
+            "date_x": "2014/08/13",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2014 _ 13765",
+            "date_x": "2014/10/06",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.574952,
+          45.533093
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2014 _ 14740",
+            "date_x": "2014/05/24",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2015 _ 15189",
+            "date_x": "2015/03/11",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.574234,
+          45.519994
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2014 _ 15313",
+            "date_x": "2014/05/11",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": "taxi"
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2019 _ 13818",
+            "date_x": "2019/05/11",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "1",
+            "NB_BLESSES_GRAVES_x": 0,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.575695,
+          45.510427
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2014 _ 15375",
+            "date_x": "2014/05/31",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2019 _ 14092",
+            "date_x": "2019/08/15",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.575043,
+          45.59197
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2014 _ 17595",
+            "date_x": "2014/07/24",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2018 _ 17726",
+            "date_x": "2018/08/07",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.590087,
+          45.556195
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2014 _ 18505",
+            "date_x": "2014/08/28",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2018 _ 18473",
+            "date_x": "2018/06/19",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": "camion"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.572612,
+          45.600792
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2014 _ 19338",
+            "date_x": "2014/03/24",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2016 _ 19518",
+            "date_x": "2016/05/06",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2018 _ 19509",
+            "date_x": "2018/06/13",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.712921,
+          45.527628
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2014 _ 3327",
+            "date_x": "2014/06/02",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2019 _ 3193",
+            "date_x": "2019/02/22",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.611981,
+          45.472533
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2014 _ 3739",
+            "date_x": "2014/02/28",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2016 _ 4395",
+            "date_x": "2016/12/19",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "1",
+            "NB_BLESSES_GRAVES_x": 0,
+            "type_vehicule": "camion"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.602937,
+          45.495234
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2014 _ 4608",
+            "date_x": "2014/12/28",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2018 _ 4603",
+            "date_x": "2018/01/30",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "1",
+            "NB_BLESSES_GRAVES_x": 0,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.625507,
+          45.436492
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2014 _ 5152",
+            "date_x": "2014/09/04",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": "camion"
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2015 _ 5373",
+            "date_x": "2015/11/21",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2020 _ 3347",
+            "date_x": "2020/11/05",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.597153,
+          45.473643
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2014 _ 5983",
+            "date_x": "2014/09/05",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2015 _ 6062",
+            "date_x": "2015/09/16",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.576894,
+          45.498768
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2014 _ 6701",
+            "date_x": "2014/01/17",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 2,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 2,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2017 _ 7715",
+            "date_x": "2017/08/27",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.574961,
+          45.493781
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2014 _ 6745",
+            "date_x": "2014/02/16",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 2,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 2,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2015 _ 7284",
+            "date_x": "2015/07/21",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57748,
+          45.498054
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2014 _ 6912",
+            "date_x": "2014/04/25",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2014 _ 7295",
+            "date_x": "2014/09/13",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56965,
+          45.499337
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2014 _ 7074",
+            "date_x": "2014/06/14",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2014 _ 7288",
+            "date_x": "2014/09/10",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2018 _ 7674",
+            "date_x": "2018/08/19",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.565561,
+          45.521365
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2014 _ 8657",
+            "date_x": "2014/03/17",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2015 _ 8846",
+            "date_x": "2015/05/16",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2016 _ 9203",
+            "date_x": "2016/07/24",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55172,
+          45.553612
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2014 _ 9331",
+            "date_x": "2014/02/17",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2016 _ 10000",
+            "date_x": "2016/09/22",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.629054,
+          45.483813
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2015 _ 10956",
+            "date_x": "2015/07/21",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2017 _ 11370",
+            "date_x": "2017/07/24",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": "taxi"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.643007,
+          45.542075
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2015 _ 11563",
+            "date_x": "2015/02/26",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": "autobus"
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2019 _ 12345",
+            "date_x": "2019/07/09",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.604629,
+          45.572367
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2015 _ 12555",
+            "date_x": "2015/04/30",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2017 _ 12966",
+            "date_x": "2017/03/17",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "1",
+            "NB_BLESSES_GRAVES_x": 0,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.618245,
+          45.534739
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2015 _ 14522",
+            "date_x": "2015/06/09",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2016 _ 14671",
+            "date_x": "2016/05/16",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58241,
+          45.513665
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2015 _ 16057",
+            "date_x": "2015/11/01",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2016 _ 15127",
+            "date_x": "2016/01/07",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "1",
+            "NB_BLESSES_GRAVES_x": 0,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.705813,
+          45.523073
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2015 _ 1789",
+            "date_x": "2015/03/31",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2016 _ 2189",
+            "date_x": "2016/08/08",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.572261,
+          45.545972
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2015 _ 18405",
+            "date_x": "2015/04/16",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2015 _ 18904",
+            "date_x": "2015/11/10",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.786211,
+          45.504949
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2015 _ 225",
+            "date_x": "2015/06/24",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2017 _ 236",
+            "date_x": "2017/07/07",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.581536,
+          45.491885
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2015 _ 4580",
+            "date_x": "2015/09/19",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2016 _ 4640",
+            "date_x": "2016/09/02",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.833062,
+          45.471494
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2015 _ 591",
+            "date_x": "2015/06/03",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2019 _ 548",
+            "date_x": "2019/03/28",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.571837,
+          45.457463
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2015 _ 6432",
+            "date_x": "2015/03/30",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2015 _ 6489",
+            "date_x": "2015/05/24",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.572286,
+          45.506662
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2015 _ 7711",
+            "date_x": "2015/12/16",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2018 _ 15660",
+            "date_x": "2018/07/30",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "1",
+            "NB_BLESSES_GRAVES_x": 0,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.632186,
+          45.500856
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2016 _ 10603",
+            "date_x": "2016/01/08",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2018 _ 11648",
+            "date_x": "2018/12/07",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.609589,
+          45.563752
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2016 _ 13061",
+            "date_x": "2016/09/26",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2019 _ 11836",
+            "date_x": "2019/09/29",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.86218,
+          45.482162
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2016 _ 156",
+            "date_x": "2016/05/21",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2017 _ 233",
+            "date_x": "2017/07/05",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 2,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 2,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2017 _ 26",
+            "date_x": "2017/01/16",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.585831,
+          45.52529
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2016 _ 15820",
+            "date_x": "2016/07/28",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2018 _ 15887",
+            "date_x": "2018/10/06",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.754895,
+          45.494843
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2016 _ 2085",
+            "date_x": "2016/07/04",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2016 _ 2536",
+            "date_x": "2016/12/06",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.706966,
+          45.532393
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2016 _ 3434",
+            "date_x": "2016/03/17",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": "autobus"
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2016 _ 3474",
+            "date_x": "2016/04/15",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2018 _ 3760",
+            "date_x": "2018/09/10",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": "camion"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.679699,
+          45.536369
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2016 _ 3746",
+            "date_x": "2016/11/04",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 2,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 2,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2018 _ 3473",
+            "date_x": "2018/02/15",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.570095,
+          45.494275
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2016 _ 7695",
+            "date_x": "2016/10/02",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": "taxi"
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2020 _ 4467",
+            "date_x": "2020/07/04",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.544064,
+          45.529369
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2016 _ 9191",
+            "date_x": "2016/07/20",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": "camion"
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2016 _ 9542",
+            "date_x": "2016/12/11",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2017 _ 9428",
+            "date_x": "2017/10/12",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.653329,
+          45.494936
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2017 _ 10788",
+            "date_x": "2017/01/11",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "1",
+            "NB_BLESSES_GRAVES_x": 0,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2018 _ 10706",
+            "date_x": "2018/01/18",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": "camion"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.582804,
+          45.516829
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2017 _ 15991",
+            "date_x": "2017/07/17",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "1",
+            "NB_BLESSES_GRAVES_x": 0,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2019 _ 13954",
+            "date_x": "2019/06/28",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "1",
+            "NB_BLESSES_GRAVES_x": 0,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.704048,
+          45.522118
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2017 _ 1910",
+            "date_x": "2017/04/25",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2019 _ 2297",
+            "date_x": "2019/10/25",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.605708,
+          45.472891
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2017 _ 4056",
+            "date_x": "2017/03/28",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2019 _ 4076",
+            "date_x": "2019/11/15",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "1",
+            "NB_BLESSES_GRAVES_x": 0,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2020 _ 2602",
+            "date_x": "2020/09/10",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "1",
+            "NB_BLESSES_GRAVES_x": 0,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.569129,
+          45.495068
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2017 _ 7755",
+            "date_x": "2017/09/13",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2019 _ 7016",
+            "date_x": "2019/09/09",
+            "type_accident_x": "Collision avec cycliste",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.554664,
+          45.554697
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2018 _ 10152",
+            "date_x": "2018/12/21",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": "taxi"
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2019 _ 8943",
+            "date_x": "2019/09/18",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.604991,
+          45.550258
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2018 _ 13790",
+            "date_x": "2018/08/16",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2019 _ 12181",
+            "date_x": "2019/03/29",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "1",
+            "NB_BLESSES_GRAVES_x": 0,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.583823,
+          45.52437
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2018 _ 15788",
+            "date_x": "2018/09/09",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2019 _ 14447",
+            "date_x": "2019/12/15",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.580679,
+          45.583065
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2018 _ 17537",
+            "date_x": "2018/05/24",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2018 _ 17735",
+            "date_x": "2018/08/11",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.581729,
+          45.496564
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2019 _ 6917",
+            "date_x": "2019/07/29",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2020 _ 2028",
+            "date_x": "2020/12/30",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "0",
+            "NB_BLESSES_GRAVES_x": 1,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.573679,
+          45.509488
+        ]
+      },
+      "properties": {
+        "accident_list": [
+          {
+            "NO_SEQ_COLL": "SPVM _ 2020 _ 9043",
+            "date_x": "2020/02/22",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "1",
+            "NB_BLESSES_GRAVES_x": 0,
+            "type_vehicule": "taxi"
+          },
+          {
+            "NO_SEQ_COLL": "SPVM _ 2020 _ 9279",
+            "date_x": "2020/07/27",
+            "type_accident_x": "Collision avec pi\u00e9ton",
+            "nb_morts_blesses": 1,
+            "NB_MORTS_x": "1",
+            "NB_BLESSES_GRAVES_x": 0,
+            "type_vehicule": ""
+          }
+        ]
+      }
+    }
+  ]
+}

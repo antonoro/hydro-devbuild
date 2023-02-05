@@ -1,0 +1,1 @@
+const render_config={autorender:!0,downloadStruc:!0};module.exports=render_config;
