@@ -406,12 +406,11 @@ main {
 
 .gauges {
 
-  min-width: 200px;
+  min-width: 300px;
   max-width: 90%;
   height: 50px;
   position: absolute;
-  left: 40px;
-  top: 40px;
+  top: 20px;
   background-color: lightgrey;
   display: flex;
   flex-direction: column;
@@ -469,10 +468,12 @@ main {
 }
 
 .gameBox{
+  position: absolute;
+  bottom: 30px;
   width: 100%;
 
   max-width: 600px;
-  padding: 50px 0;
+  padding: 20px 0;
   background-color: white;
   display: flex;
   flex-direction: column;
@@ -530,21 +531,105 @@ main {
         flex: 50%;
         display: flex;
         flex-direction: column;
-        .actionbutton{
+      }
+    }
 
+    .printprompt{
+
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+
+    }
+
+    .repartition{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+
+      .row{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+
+        .choice_header{
+          display: inline-block;
+          h5{
+            display: inline-block;
+            margin: 0;
+            padding: 0;
+          }
+          p{
+            display: inline-block;
+            margin: 0;
+            padding: 0;
+          }
+        }
+
+        .selector{
           display: flex;
+          flex-direction: column;
+          .band_row{
+            display: flex;
+            flex-direction: row;
+            .band{
+              min-height: 20px;
+              background-color: rgba(255,0,0,0.5);
+              width: 100%;
+            }
+            .values{
+              min-width: 30px;
+              display: flex;
+              flex-direction: column;
+              p{
+                margin: 0;
+                padding: 0;
+              }
+              .rowjetonsTotal{
+
+              }
+              .rowmegawattsTotal{
+
+              }
+            }
+
+          }
+
+
+        }
+
+      }
+
+      .monitoring{
+        min-width: 60%;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        padding: 10px;
+        .column{
+          display: flex;
+          flex-direction: column;
           justify-content: center;
           align-items: center;
+          padding: 0 10px;
 
-          .butn{
-            border: black 1px solid;
-            cursor: pointer;
-            p{
-              margin: 0 auto;
+          .monitoring_header{
+            h5{
+              margin: 0;
+              padding: 0;
+            }
+          }
+          .monitoring_value{
+            h3{
+              margin: 0;
+              padding: 0;
             }
           }
 
         }
+
       }
 
     }
@@ -552,6 +637,21 @@ main {
 
   }
 
+}
+
+.actionbutton{
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  .butn{
+    border: black 1px solid;
+    cursor: pointer;
+    p{
+      margin: 0 auto;
+    }
+  }
 }
 
 
