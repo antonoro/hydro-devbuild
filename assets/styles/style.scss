@@ -405,10 +405,9 @@ main {
 }
 
 .gauges {
-  opacity: 0;
   min-width: 300px;
   max-width: 90%;
-  height: 50px;
+  height: 25px;
   position: absolute;
   top: 20px;
   background-color: lightgrey;
@@ -529,15 +528,22 @@ main {
 
     .choices{
       display: flex;
-      flex-direction: row;
+      flex-direction: column;
       justify-content: center;
       align-items: center;
 
-      .column{
+      .row{
         flex: 50%;
         display: flex;
-        flex-direction: column;
+        flex-direction: row;
+        .column{
+          flex: 50%;
+          display: flex;
+          flex-direction: column;
+        }
       }
+
+
     }
 
     .printprompt{
@@ -783,12 +789,71 @@ main {
   display: flex;
   justify-content: center;
   align-items: center;
+  &.prev{
+    opacity: 0;
+    pointer-events: none;
+  }
+
+  &.disabled{
+    opacity: 0.5;
+  }
 
   .butn{
     border: black 1px solid;
     cursor: pointer;
     p{
       margin: 0 auto;
+    }
+  }
+}
+
+.choicebutton{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  .butn{
+    border: black 1px solid;
+    pointer-events: none;
+    &.selected{
+      background-color: gray;
+    }
+
+    cursor: pointer;
+    p{
+      margin: 0 auto;
+      pointer-events: none;
+    }
+  }
+}
+
+.selectionbutton{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  .butn{
+    border: black 1px solid;
+    pointer-events: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+    .selectionBox{
+      width: 20px;
+      height: 20px;
+      background-color: white;
+      border: 1px black solid;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    cursor: pointer;
+    p{
+      margin: 0 auto;
+      pointer-events: none;
     }
   }
 }
