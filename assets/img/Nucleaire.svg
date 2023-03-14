@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#5395D6;stroke-width:4.5802;stroke-miterlimit:10;}
+	.st1{fill:#5395D6;}
+	.st2{fill:#FFFFFF;stroke:#5395D6;stroke-width:4.4065;stroke-miterlimit:10;}
+	.st3{fill:#5395D6;stroke:#5395D6;stroke-width:8.813;stroke-miterlimit:10;}
+	.st4{fill:#FFFFFF;}
+	.st5{fill:none;stroke:#5395D6;stroke-width:5.6664;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:56;}
+</style>
+<g id="Off">
+</g>
+<g id="On">
+</g>
+<g id="Nucleaire">
+	<g>
+		<circle class="st1" cx="50" cy="50" r="7.1"/>
+		<path class="st5" d="M50,30.8c3.4,0,6.6,0.9,9.4,2.5l11.4-19.7C64.7,10.1,57.6,8.1,50,8.1s-14.7,2.1-20.8,5.6l11.4,19.7
+			C43.4,31.7,46.6,30.8,50,30.8z"/>
+		<path class="st5" d="M33.7,59.1c-1.7-3-2.5-6.2-2.5-9.4l-22.7,0c0,7.1,1.8,14.2,5.5,20.8c3.8,6.6,9.1,11.7,15.2,15.2l11.4-19.7
+			C37.8,64.3,35.4,62,33.7,59.1z"/>
+		<path class="st5" d="M66.3,59.1c-1.7,3-4.1,5.3-6.9,6.9l11.4,19.7C76.9,82.1,82.2,77,86,70.4c3.8-6.6,5.5-13.7,5.5-20.8l-22.7,0
+			C68.8,52.8,68,56.1,66.3,59.1z"/>
+	</g>
+</g>
+<g id="Solaire">
+</g>
+<g id="Hydro">
+</g>
+<g id="Eolien">
+</g>
+</svg>

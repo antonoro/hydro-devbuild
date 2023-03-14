@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#5395D6;stroke-width:4.5802;stroke-miterlimit:10;}
+	.st1{fill:#5395D6;}
+	.st2{fill:#FFFFFF;stroke:#5395D6;stroke-width:4.4065;stroke-miterlimit:10;}
+	.st3{fill:#5395D6;stroke:#5395D6;stroke-width:8.813;stroke-miterlimit:10;}
+	.st4{fill:#FFFFFF;}
+	.st5{fill:none;stroke:#5395D6;stroke-width:5.6664;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:56;}
+</style>
+<g id="Off">
+</g>
+<g id="On">
+</g>
+<g id="Nucleaire">
+</g>
+<g id="Solaire">
+	<g>
+		<polyline class="st5" points="21.2,21.2 23.7,23.6 26.1,26.1 28.5,28.5 		"/>
+		<polyline class="st5" points="50,9.6 50,13 50,16.5 50,19.9 		"/>
+		<polyline class="st5" points="78.8,21.2 76.4,23.6 73.9,26.1 71.5,28.5 		"/>
+		<polyline class="st5" points="90.4,50 86.9,50 83.5,50 80.1,50 		"/>
+		<polyline class="st5" points="78.8,78.8 76.4,76.3 73.9,73.9 71.5,71.5 		"/>
+		<polyline class="st5" points="50,90.3 50,86.9 50,83.5 50,80 		"/>
+		<polyline class="st5" points="21.2,78.8 23.6,76.3 26.1,73.9 28.5,71.5 		"/>
+		<polyline class="st5" points="9.6,50 13.1,50 16.5,50 19.9,50 		"/>
+		<circle class="st5" cx="50" cy="50" r="18.7"/>
+	</g>
+</g>
+<g id="Hydro">
+</g>
+<g id="Eolien">
+</g>
+</svg>

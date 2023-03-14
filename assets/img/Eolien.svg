@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#5395D6;stroke-width:4.5802;stroke-miterlimit:10;}
+	.st1{fill:#5395D6;}
+	.st2{fill:#FFFFFF;stroke:#5395D6;stroke-width:4.4065;stroke-miterlimit:10;}
+	.st3{fill:#5395D6;stroke:#5395D6;stroke-width:8.813;stroke-miterlimit:10;}
+	.st4{fill:#FFFFFF;}
+	.st5{fill:none;stroke:#5395D6;stroke-width:5.6664;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:56;}
+</style>
+<g id="Off">
+</g>
+<g id="On">
+</g>
+<g id="Nucleaire">
+</g>
+<g id="Solaire">
+</g>
+<g id="Hydro">
+</g>
+<g id="Eolien">
+	<g>
+		<path class="st5" d="M16.4,35.8H14"/>
+		<path class="st5" d="M61.1,17.7c5,0,9.1,4.1,9.1,9.1s-4.1,9.1-9.1,9.1H32.2"/>
+		<path class="st5" d="M47.2,64.1H21.9"/>
+		<path class="st5" d="M86.5,31.8c5,0,9.1,4.1,9.1,9.1S91.5,50,86.5,50H4.4"/>
+		<path class="st5" d="M63.6,64.1h12.8h0c5,0,9.1,4.1,9.1,9.1c0,5-4.1,9.1-9.1,9.1"/>
+	</g>
+</g>
+</svg>
