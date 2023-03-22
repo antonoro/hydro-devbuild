@@ -680,6 +680,7 @@ main {
                   font-size: 24pt;
                   margin: 0;
                   padding: 0;
+                  pointer-events: none;
                 }
               }
 
@@ -846,21 +847,59 @@ main {
   justify-content: center;
   align-items: center;
   width: 100%;
+  margin: 5px 0;
 
   .butn{
     border: black 1px solid;
     pointer-events: none;
     border-radius: 10px;
     width: 100%;
+    height: 100%;
     padding: 5px 10px;
+    display: flex;
+    flex-direction: row;
+    cursor: pointer;
     &.selected{
       background-color: gray;
     }
 
-    cursor: pointer;
-    p{
-      margin: 0 auto;
-      pointer-events: none;
+
+    .holder{
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+      &.icon{
+        justify-content: center;
+        align-items: center;
+        width: 40px;
+        height: 40px;
+        img{
+          width: 30px;
+          height: 30px;
+          min-width: unset !important;
+          min-height: unset !important;
+          padding: 5px;
+        }
+
+      }
+
+      &.label{
+        justify-content: center;
+        align-items: left;
+        width: 80%;
+        padding-left: 10px;
+      }
+
+      h4{
+        margin: 0;
+        pointer-events: none;
+        font-size: 12pt;
+      }
+      p{
+        margin: 0;
+        pointer-events: none;
+        font-size: 10pt;
+      }
     }
   }
 }
@@ -870,31 +909,54 @@ main {
   justify-content: center;
   align-items: center;
   width: 100%;
+  margin: 5px 0;
 
   .butn{
     border: black 1px solid;
     pointer-events: none;
+    border-radius: 10px;
     display: flex;
     flex-direction: row;
-    justify-content: center;
     align-items: center;
     padding: 5px 10px;
     width: 100%;
+    height: 100%;
 
-    .selectionBox{
-      width: 20px;
-      height: 20px;
-      background-color: white;
-      border: 1px black solid;
+    .holder{
       display: flex;
-      justify-content: center;
-      align-items: center;
-    }
+      flex-direction: column;
+      height: 100%;
 
-    cursor: pointer;
-    p{
-      margin: 0 auto;
-      pointer-events: none;
+
+      &.selectionBox{
+        width: 20px;
+        height: 20px;
+        padding: 5px;
+        background-color: white;
+        border: 1px black solid;
+
+        justify-content: center;
+        align-items: center;
+      }
+
+      cursor: pointer;
+      &.label{
+        justify-content: center;
+        align-items: left;
+        width: 80%;
+        padding-left: 10px;
+      }
+
+      h4{
+        margin: 0;
+        pointer-events: none;
+        font-size: 12pt;
+      }
+      p{
+        margin: 0;
+        pointer-events: none;
+        font-size: 10pt;
+      }
     }
   }
 }
