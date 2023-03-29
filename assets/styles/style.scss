@@ -424,7 +424,7 @@ main {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    padding: 10px;
+    padding: 3px;
     .column{
       flex: 49%;
       display: flex;
@@ -445,7 +445,6 @@ main {
         .gauges {
           position: relative;
           width: 100%;
-          background-color: lightgrey;
           display: flex;
           flex-direction: column;
           justify-content: center;
@@ -474,30 +473,28 @@ main {
               height: 25px;
               display: flex;
               flex-direction: row;
+              align-items: center;
+              border: solid 1px rgb(46, 177, 221);
               .gaugeColor{
                 height: 100%;
                 &.blue{
-                  background-color: lightblue;
+                  background-color: rgb(114, 197, 224);
                 }
-
-                &.green{
-                  background-color: rgba($color: green, $alpha: 0.5);
-                }
-
-                .value{
-                  display: flex;
-                  justify-content: right;
-                  align-items: center;
-                  p{
-                    margin: 0;
-                    padding: 0 5px 0 0;
-                  }
+              }
+              .value{
+                position: absolute;
+                display: flex;
+                justify-content: left;
+                align-items: center;
+                p{
+                  margin: 0;
+                  padding: 0 0 0 5px;
                 }
               }
               .committed{
                 position: relative;
                 height: 100%;
-                background-color: rgb(114, 197, 224);
+                background-color: lightblue;
                 display: flex;
                 justify-content: right;
                 align-items: center;
@@ -600,6 +597,15 @@ main {
 
   .promptBox{
     padding: 20px;
+
+    h4{
+      font-size: 10pt;
+      margin: 7px auto;
+    }
+    p{
+      font-size: 10pt;
+    }
+
     .header{
       .surtitre{
         h4{
@@ -668,10 +674,10 @@ main {
           flex-direction: column;
           align-items: center;
           .selectorZone{
-            min-height: 50px;
+            min-height: 40px;
             height: 50%;
             width: 100%;
-            max-width: 150px;
+            max-width: 120px;
             display: flex;
             flex-direction: row;
             background-color: lightblue;
@@ -713,13 +719,16 @@ main {
             justify-content: center;
             align-items: center;
             flex-direction: column;
+            text-align: center;
             h3{
               margin: 0;
+              font-size: 10pt;
             }
 
             .inlinetext{
-              h5{
+              p{
                 margin: 0;
+                font-size: 9pt;
               }
             }
 
@@ -869,6 +878,7 @@ main {
     padding: 5px 10px;
     display: flex;
     flex-direction: row;
+    align-items: center;
     cursor: pointer;
     &.selected{
       background-color: gray;
@@ -897,7 +907,7 @@ main {
       &.label{
         justify-content: center;
         align-items: left;
-        width: 80%;
+        width: 100%;
         padding-left: 10px;
       }
 
@@ -954,7 +964,7 @@ main {
       &.label{
         justify-content: center;
         align-items: left;
-        width: 80%;
+        width: 100%;
         padding-left: 10px;
       }
 
@@ -1093,7 +1103,7 @@ section.black-bkg{
       padding: 0 !important;
       margin: 0 auto;
       padding: 25px;
-      background-color: lightgrey;
+      //background-color: lightgrey;
 
 
       .map {
@@ -1125,6 +1135,22 @@ section.black-bkg{
           width: 100%;
           height: 100%;
           padding: 10px;
+          background-color: #E4ECF6;
+          &.gameOver{
+            background-color: #E3D2D3;
+          }
+
+          .background-image{
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            img{
+              padding: 0;
+              margin: 0;
+              min-width: 100%;
+              min-height: 100%;
+            }
+          }
         }
 
 
@@ -1389,6 +1415,48 @@ footer {
 @media screen and (max-width: $medium-screen) {
   header .article-reminder {
     display: none;
+  }
+
+  .gameBox{
+    .promptBox{
+      .repartition{
+        .optionZone{
+          .optionUnit{
+            .selectorZone{
+              min-height: 25px;
+              max-width: 100px;
+            }
+          }
+        }
+      }
+
+      .choices{
+        .row{
+          padding-left: 0;
+          padding-right: 0;
+          .choicebutton, .selectionbutton{
+
+            .butn{
+              min-height: 45px;
+              padding-top: 0;
+              padding-bottom: 0;
+              .holder{
+                &.icon{
+                  width: 20px;
+                  height: 20px;
+                }
+                h4{
+                  font-size: 9pt;
+                }
+                p{
+                  font-size: 8pt;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
   }
 }
 
