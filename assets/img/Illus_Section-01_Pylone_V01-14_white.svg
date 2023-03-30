@@ -4,8 +4,8 @@
 	 viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#E4ECF5;}
+  rect.st2{fill:white;}
 	.st1{fill:#E2D2D3;stroke:#E2D2D3;stroke-width:1.0427;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st2{fill:white;}
 	.st3{fill:none;stroke:#274661;stroke-width:1.8171;stroke-miterlimit:10;}
 	.st4{fill:#BCCFE9;}
 	.st5{fill:none;stroke:#87ABD4;stroke-width:0.9086;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:10;}

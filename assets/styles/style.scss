@@ -646,11 +646,66 @@ main {
     }
 
     .printprompt{
-
       display: flex;
       flex-direction: column;
-      justify-content: center;
       align-items: center;
+      position: relative;
+      &.mapnavigator{
+        min-height: 50vh;
+
+        .popUp-bg{
+          width: 100vw;
+          height: $vis-height;
+          position: fixed;
+          z-index: 2;
+          top: $header-height;
+          background-color: rgba(0,0,0,0.8);
+          display: none;
+
+          justify-content: center;
+          align-items: center;
+          .popUp-box{
+            background-color: white;
+
+          }
+        }
+
+        .mapHolder{
+          width: 100%;
+          position: relative;
+          min-height: inherit;
+          padding: 10px 0;
+          .superposedMap{
+            display: flex;
+            justify-content: center;
+            width: 100%;
+            min-height: inherit;
+            position: relative;
+            .map, img{
+              position: absolute;
+              padding: 0;
+              min-width: 100%;
+              min-height: 300px;
+              height: 100%;
+              width: 100%;
+
+              &.noClick{
+                pointer-events: none;
+              }
+
+              svg{
+                padding: 0 !important;
+                height: unset !important;
+                max-height: 100% !important;
+              }
+
+            }
+          }
+
+
+        }
+
+      }
 
     }
 
@@ -1105,26 +1160,10 @@ section.black-bkg{
       padding: 25px;
       //background-color: lightgrey;
 
-
-      .map {
-        width: 100%;
-        flex-grow: 1;
-        position: relative;
-        z-index: -1;
-        -webkit-transform:translate3d(0,0,0);
-        img, canvas{
-
-          width: 100% !important;
-          padding: 0 !important;
-          max-width: unset !important;
-          max-height: unset !important;
-        }
-      }
-
       .rootElem{
         position: absolute;
         width: 100%;
-        height: 100%;
+        height: $vis-height;
         padding: 0;
         margin: 0;
 
