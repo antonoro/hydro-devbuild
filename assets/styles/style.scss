@@ -1,5 +1,6 @@
 @import 'constants';
 @import 'fonts';
+@import 'tip';
 @import '../../../node_modules/normalize.css';
 @import '../../../node_modules/@fortawesome/fontawesome-free/scss/fontawesome';
 @import '../../../node_modules/@fortawesome/fontawesome-free/scss/brands';
@@ -546,12 +547,44 @@ main {
   }
 }
 
+.d3-tip {
+  padding: 6px;
+  max-width: 400px;
+  border-radius: 0;
+  pointer-events: none !important;
+  font-family: $sans-serif-font-family;
+  font-weight: normal;
+  font-size: 0.75em;
+  line-height: 1.15em;
+
+  &.n {
+    transform: translateY(-6px);
+
+    &::after {
+      margin-top: -2px;
+    }
+  }
+
+  &.e {
+    transform: translateX(6px);
+
+    &::after {
+      margin-left: 1px;
+    }
+  }
+
+  strong {
+    font-size: 1.1em;
+    font-weight: 500;
+    margin-bottom: 0.37em;
+  }
+}
 
 .gameBox{
   position: absolute;
   width: 100%;
 
-  max-width: 600px;
+  max-width: 500px;
   //max-height: 80%;
   min-height: 40%;
   padding: 0;
@@ -1454,6 +1487,10 @@ footer {
 @media screen and (max-width: $medium-screen) {
   header .article-reminder {
     display: none;
+  }
+
+  .d3-tip{
+    max-width: 300px;
   }
 
   .gameBox{
