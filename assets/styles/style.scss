@@ -595,6 +595,7 @@ main {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  border-radius: 10px;
 
   &.transparent{
     background-color: transparent !important;
@@ -641,6 +642,35 @@ main {
     }
     p{
       font-size: 10pt;
+    }
+
+    &.bilan{
+
+      .header{
+        .massiveTitle{
+          h2{
+            font-size: 30pt;
+            font-family: "graphik";
+            font-weight: 400;
+            text-align: center;
+            margin: 20px 0;
+          }
+        }
+      }
+
+      .separator{
+        position: relative;
+      }
+      .separator::after{
+        content: " ";
+        display: block;
+        height: 1px;
+        width: 100%;
+        position: relative;
+        margin: 20px 0;
+        background: grey;
+      }
+
     }
 
     .header{
@@ -1055,7 +1085,6 @@ main {
         &.selected{
           background-color: $hydroBlueVib;
           div{
-            padding-left: 1px;
             p{
               color: white;
             }
