@@ -589,7 +589,7 @@ main {
 
   max-width: 500px;
   //max-height: 80%;
-  min-height: 40%;
+  min-height: 20%;
   padding: 0;
   background-color: white;
   display: flex;
@@ -947,6 +947,7 @@ main {
     border-radius: 5px;
     padding: 5px;
     cursor: pointer;
+    width: unset !important;
     p{
       margin: 0 auto;
       pointer-events: none;
@@ -963,21 +964,7 @@ main {
   margin: 5px 0;
 
   .butn{
-    border: black 1px solid;
-    pointer-events: none;
-    border-radius: 10px;
-    width: 100%;
-    height: 100%;
-    padding: 5px 10px;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
     cursor: pointer;
-    &.selected{
-      background-color: gray;
-    }
-
-
     .holder{
       display: flex;
       flex-direction: column;
@@ -1015,7 +1002,30 @@ main {
         font-size: 10pt;
       }
     }
+
+    &.selected{
+      .holder{
+        &.label{
+          h4{
+          }
+          p{
+          }
+        }
+      }
+    }
   }
+}
+
+.butn{
+  border: $hydroBlueVib 1px solid;
+  pointer-events: none;
+  border-radius: 30px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 5px 10px;
+  width: 100%;
+  height: 100%;
 }
 
 .selectionbutton{
@@ -1026,15 +1036,6 @@ main {
   margin: 5px 0;
 
   .butn{
-    border: black 1px solid;
-    pointer-events: none;
-    border-radius: 10px;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    padding: 5px 10px;
-    width: 100%;
-    height: 100%;
 
     .holder{
       display: flex;
@@ -1045,12 +1046,32 @@ main {
       &.selectionBox{
         width: 20px;
         height: 20px;
-        padding: 5px;
         background-color: white;
-        border: 1px black solid;
-
         justify-content: center;
         align-items: center;
+        border: 1px $hydroBlueVib solid;
+        border-radius: 10px;
+
+        &.selected{
+          background-color: $hydroBlueVib;
+          div{
+            padding-left: 1px;
+            p{
+              color: white;
+            }
+          }
+
+        }
+
+        div{
+          p{
+            color: $hydroBlueVib;
+            font-size: 18pt;
+            font-weight: 500;
+            margin: 0;
+            padding: 0;
+          }
+        }
       }
 
       cursor: pointer;
