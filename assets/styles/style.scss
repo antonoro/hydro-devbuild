@@ -1279,6 +1279,17 @@ section.black-bkg{
               object-position: 80% 50%;
             }
           }
+
+          .temporaryInfo{
+            position: absolute;
+            top: 0;
+            left: 0;
+            p{
+              font-size: 10pt;
+              margin: 0;
+              padding: 0;
+            }
+          }
         }
 
 
