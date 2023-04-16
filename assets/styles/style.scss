@@ -726,7 +726,6 @@ main {
     .printprompt{
       display: flex;
       flex-direction: column;
-      align-items: center;
       position: relative;
       padding: 4px 0 12px 0;
       &.mapnavigator{
@@ -990,6 +989,7 @@ main {
 
   &.disabled{
     opacity: 0.5;
+    pointer-events: none;
   }
 
   .butn{
@@ -1004,6 +1004,7 @@ main {
       margin: 0 auto;
       pointer-events: none;
       color: white;
+      user-select: none;
     }
   }
 }
@@ -1049,11 +1050,13 @@ main {
         pointer-events: none;
         font-size: 11pt;
         font-family: 'graphik medium';
+        user-select: none;
       }
       p{
         margin: 0;
         pointer-events: none;
         font-size: 10pt;
+        user-select: none;
       }
     }
 
