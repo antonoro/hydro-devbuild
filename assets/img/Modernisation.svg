@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.4.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#308FD8;stroke-width:5.6643;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:56;}
+</style>
+<g id="Off">
+</g>
+<g id="On">
+</g>
+<g id="Solaire">
+</g>
+<g id="Hydro">
+</g>
+<g id="Eolien">
+</g>
+<path class="st0" d="M50,8.1L13.73,29.05v41.89L50,91.88l36.28-20.95V29.05L50,8.1z M50,29.02c10.98,0,19.88,8.9,19.88,19.88
+	c0,10.97-8.91,19.88-19.88,19.88s-19.88-8.91-19.88-19.88C30.11,37.93,39.02,29.02,50,29.02z"/>
+</svg>
