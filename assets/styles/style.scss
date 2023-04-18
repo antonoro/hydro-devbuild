@@ -665,7 +665,7 @@ main {
           h2{
             font-size: 30pt;
             font-family: "graphik";
-            font-weight: 400;
+            font-weight: 500;
             text-align: center;
             margin: 20px 0;
           }
@@ -803,12 +803,11 @@ main {
         display: flex;
         flex-direction: row;
         flex-wrap: wrap;
-        justify-content: center;
         align-items: center;
         min-width: 60%;
         padding: 15px 0;
         .optionUnit{
-          width: 49%;
+          width: 50%;
           height: 100%;
           display: flex;
           flex-direction: column;
@@ -848,7 +847,7 @@ main {
                 background-color: white;
                 margin: 2px 0;
                 h3{
-                  font-size: 24pt;
+                  font-size: 20pt;
                   margin: 0;
                   padding: 0;
                   user-select: none;
@@ -1005,6 +1004,7 @@ main {
   text-transform: uppercase;
   font-weight: 500;
   padding: 16px 0 12px 0;
+  width: fit-content;
   margin: auto;
   cursor: pointer;
 
@@ -1350,6 +1350,7 @@ section.black-bkg{
               font-size: 8pt;
               margin: 0;
               padding: 0;
+              color: gray;
             }
           }
         }
