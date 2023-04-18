@@ -438,7 +438,7 @@ main {
       .monitoring_header{
         h5{
           margin: 0;
-          padding: 0 0 0 7px;
+          padding: 10px 0 0 2px;
           font-family: 'graphik';
           font-weight: 400;
           font-size: 10pt;
@@ -559,14 +559,19 @@ main {
 }
 
 .d3-tip {
-  padding: 6px;
+  padding: 6px 20px;
   max-width: 400px;
   border-radius: 0;
   pointer-events: none !important;
   font-family: $sans-serif-font-family;
   font-weight: normal;
   font-size: 0.75em;
-  line-height: 1.15em;
+  line-height: 0.15em;
+
+  >h4{
+    font-family: "graphik medium";
+    font-size: 1.2em;
+  }
 
   &.n {
     transform: translateY(-6px);
@@ -1045,6 +1050,7 @@ main {
 
   .butn{
     cursor: pointer;
+    margin: 2px 0;
     .holder{
       display: flex;
       flex-direction: column;
@@ -1125,7 +1131,7 @@ main {
   cursor: pointer;
 
   .butn{
-
+    margin:2px 0;
     .holder{
       display: flex;
       flex-direction: column;
@@ -1325,7 +1331,7 @@ section.black-bkg{
           padding: 10px;
           background-color: #E4ECF6;
           &.gameOver{
-            background-color: #E3D2D3;
+            background-color: #F96262;
           }
 
           .background-image{
