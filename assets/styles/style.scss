@@ -422,6 +422,7 @@ main {
 
 .monitoring{
   width: 100%;
+  margin: 8px 0;
   .monitoring_content{
     width: 100%;
     display: flex;
@@ -446,6 +447,10 @@ main {
       }
       .monitoring_value{
         width: 100%;
+
+        &.transition{
+          opacity: 0;
+        }
 
         .gauges {
           position: relative;
@@ -479,14 +484,15 @@ main {
               display: flex;
               flex-direction: row;
               align-items: center;
-              border: solid 1px rgb(46, 177, 221);
+              border: solid 1px black;
               &.red{
-                border: solid 1px rgba(238, 5, 5, 0.5);
+                border: solid 1px $hydroRed;
+                background-color: $hydroRed;
               }
               .gaugeColor{
                 height: 100%;
                 &.blue{
-                  background-color: #81B4DE;
+                  background-color: $hydroBlueMid;
                 }
                 &.red{
                   background-color: $hydroRed;
@@ -502,11 +508,32 @@ main {
                   padding: 0 0 0 5px;
                   font-size: 10pt;
                 }
+
+                &.separated{
+                  height: 100%;
+                  width: 100%;
+                  flex-direction: row;
+
+                  .labelHolder{
+                    flex:49%;
+                    p{
+
+                    }
+                  }
+                  .gaugeSeparator{
+                    height: calc(100% - 2px);
+                    width: 2px;
+                    color: white;
+                    background-color: white;
+                  }
+
+                }
+
               }
               .committed{
                 position: relative;
                 height: 100%;
-                background-color: lightblue;
+                background-color: $hydroBlueDim;
                 display: flex;
                 justify-content: right;
                 align-items: center;
@@ -1137,6 +1164,21 @@ main {
       flex-direction: column;
       height: 100%;
       user-select: none;
+
+      &.icon{
+        justify-content: center;
+        align-items: center;
+        width: 40px;
+        height: 40px;
+        img{
+          width: 30px;
+          height: 30px;
+          min-width: unset !important;
+          min-height: unset !important;
+          padding: 5px;
+        }
+
+      }
 
       &.selectionBox{
         width: 20px;
