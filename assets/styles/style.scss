@@ -434,7 +434,7 @@ main {
 
       flex-direction: column;
       justify-content: center;
-      padding: 0;
+
 
       .monitoring_header{
         h5{
@@ -678,7 +678,7 @@ main {
   .promptBox{
     padding: 10px 15px;
     max-width: 500px;
-    min-width: 300px;
+    min-width: 500px;
     min-height: 200px;
     background-color: white;
     border-radius: 10px;
@@ -766,6 +766,11 @@ main {
       flex-direction: column;
       position: relative;
       padding: 4px 0 12px 0;
+
+      >.monitoring{
+        padding:10px 0;
+      }
+
       &.mapnavigator{
         min-height: 50vh;
 
@@ -1159,6 +1164,18 @@ main {
 
   .butn{
     margin:2px 0;
+
+    &.selected{
+      background-color: $hydroBlueVib;
+      color: $white;
+
+      .holder{
+        h4, p{
+          color: $white;
+        }
+      }
+
+    }
     .holder{
       display: flex;
       flex-direction: column;
@@ -1604,6 +1621,10 @@ footer {
     left: 0;
     width: $fig-mobile-image-width;
   }
+
+  .viz-section > .viz .game-area .rootElem .gameScreen{
+    background-color: $white;
+  }
 }
 
 @media screen and (max-width: $large-screen) {
@@ -1630,6 +1651,12 @@ footer {
 
   .steps section {
     padding: $step-padding;
+  }
+
+  .background-image{
+    .no-mobile{
+      display: none !important;
+    }
   }
 
   .viz-section {
@@ -1680,6 +1707,7 @@ footer {
   .gameBox{
     .promptBox{
       background-color: unset !important;
+      min-width: 100%;
       .repartition{
         .optionZone{
           .optionUnit{
