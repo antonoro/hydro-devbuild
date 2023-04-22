@@ -492,6 +492,7 @@ main {
               .gaugeColor{
                 height: 100%;
                 &.blue{
+                  //background-color: $hydroBlueMid;
                   background-color: $hydroBlueMid;
                 }
                 &.red{
@@ -507,15 +508,102 @@ main {
                   margin: 0;
                   padding: 0 0 0 5px;
                   font-size: 10pt;
+
+                  >b{
+                    >span{
+                      //content: \2192;
+                      color: white; 
+                      font-size: 15px;
+            
+                    }
+                  }
                 }
 
-                &.separated{
+                &.basicGauge{
                   height: 100%;
                   width: 100%;
                   flex-direction: row;
 
                   .labelHolder{
                     flex:49%;
+                    p{
+
+                    }
+
+                  }
+                  .gaugeSeparator{
+                    height: calc(100% - 2px);
+                    width: 2px;
+                    color: white;
+                    background-color: white;
+                  }
+
+                }
+
+                &.arrowGauge{
+                  height: 100%;
+                  width: 100%;
+                  flex-direction: row;
+
+                  
+
+                  .arrow{
+                    width: 190%;
+                    height: 100%;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    position: relative;
+                    left: 4.5%;
+                    
+
+                    .rect{
+                    width: 100%;
+                    height: 5%;
+                    background-color: $white;
+                  }
+
+                    .rect-1{
+                      position: relative;
+                      bottom: 15%;
+                      right: 4%;
+                      height: 3%;
+                      width: 5%;
+                      background-color: $white;
+                      transform: rotate(30deg);
+                    }
+
+                    .rect-2{
+                      position: relative;
+                      top: 13%;
+                      right: 9%;
+                      height: 3%;
+                      width: 5%;
+                      background-color: $white;
+                      transform: rotate(-30deg);
+                    }
+
+
+
+
+                    img{
+                      position: absolute;
+                      z-index: 10;
+                      height: 100%;
+                      width: 100%;
+                      //transform: scale(0.1, 0.2);
+                      //object-fit: fill;
+                      
+                    }
+                    
+                  
+                  }
+                  
+
+                  .labelHolder{
+                    flex:49%;
+
+                  
                     p{
 
                     }
@@ -528,6 +616,8 @@ main {
                   }
 
                 }
+
+                
 
               }
               .committed{
@@ -676,7 +766,7 @@ main {
   }
 
   .promptBox{
-    padding: 10px 15px;
+    padding: 10px 25px;
     max-width: 500px;
     min-width: 500px;
     min-height: 200px;
@@ -695,7 +785,7 @@ main {
       .header{
         .massiveTitle{
           h2{
-            font-size: 30pt;
+            font-size: 28pt;
             font-family: "graphik";
             font-weight: 500;
             text-align: center;
@@ -851,13 +941,13 @@ main {
           align-items: center;
           padding: 6px 0;
           .selectorZone{
-            min-height: 35px;
+            min-height: 40px;
             height: 50%;
             width: 100%;
-            max-width: 105px;
+            max-width: 110px;
             display: flex;
             flex-direction: row;
-            background-color: #4099E3;
+            background-color: $hydroBlueVib;
             border-radius: 5px;
             margin: 5px;
 
@@ -883,10 +973,11 @@ main {
               &.centralZone{
                 background-color: white;
                 margin: 2px 0;
+                width: 40%;
                 h3{
-                  font-size: 20pt;
+                  font-size: 18pt;
                   margin: 0;
-                  padding: 0;
+                  padding: 4px;
                   user-select: none;
                 }
 
@@ -1062,12 +1153,15 @@ main {
 
     cursor: pointer;
     width: unset !important;
-    padding: 3px 22px;
+    padding: 4px 22px;
     p{
       margin: 0 auto;
       pointer-events: none;
       color: white;
       user-select: none;
+
+      font-size: 10pt;
+      letter-spacing: 1px;
     }
   }
 }
@@ -1083,6 +1177,7 @@ main {
   .butn{
     cursor: pointer;
     margin: 2px 0;
+    padding: 10px;
     .holder{
       display: flex;
       flex-direction: column;
@@ -1164,6 +1259,7 @@ main {
 
   .butn{
     margin:2px 0;
+    padding: 10px;
 
     &.selected{
       background-color: $hydroBlueVib;
