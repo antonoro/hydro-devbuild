@@ -1,0 +1,113 @@
+ID,Type,Sujet,Background,Texte,Texte_Supp,Choix_insecables,Cout_Elec_Env_Popu,Trigger_next
+0,texteBoutonSimple,Votre mission,centrale,"Énergies éolienne, solaire et hydroélectrique : l’heure des choix a sonné. Vous succédez à Sophie Brochu comme p-d.g. d’Hydro-Québec. 
+<br><br>
+Le gouvernement de François Legault s’est engagé à <a href=""https://www.ledevoir.com/environnement/589487/le-quebec-sera-carboneutre-en-2050-promet-le-gouvernement-legault"" target=""_blank"">atteindre la carboneutralité en 2050</a>. Votre rôle est central pour permettre au Québec de garder le cap sur ses cibles climatiques.",,,,1
+1,texteBoutonSimple,Votre mission,centrale,"Vous avez deux mandats de cinq ans pour équilibrer l’offre et la demande d’électricité, qui augmentera de 25&nbsp;TWh. Attention à ne pas faire déroger le Québec à ses engagements et à conserver une bonne cote de satisfaction auprès de la population.
+<br><br>
+Votre budget est de 50&nbsp;jetons. Prendrez-vous les bonnes décisions?",,,,Q1
+Q1,Repartition,Question 1 / 8,pylone,"La demande d’électricité <a href=""https://www.ledevoir.com/politique/773141/le-gouvernement-depose-son-projet-de-loi-pour-plafonner-les-tarifs-d-hydro-quebec"" target=""_blank"">va augmenter</a> au cours des dix prochaines années. Quels projets financez-vous pour augmenter la production? Vous pouvez dépenser un maximum de 25&nbsp;jetons.",,"Barrage hydroélectrique:
+Parcs éoliens:
+Centrale nucléaire:
+Centrales solaires","-13_9_0_-1;
+-6_4_1_0;
+-8_6_-5_-5;
+-2_1_1_1;","Q1-1;
+Q1-2;
+Q1-3;
+Q1-4_Q2"
+Q1-1,Carte,Barrage hydroélectrique,pylone,Des citoyens vivant à proximité des rivières ciblées par vos études préliminaires s'inquiètent de votre décision. Cliquez sur les cours d'eau ci-dessous pour connaître les défis qui vous y attendent.,"Depuis que la Côte-Nord a été nommée comme cible potentielle il y a une dizaine d'années, des Innus et des élus de la région ont promis d'y bloquer <a href=""https://www.ledevoir.com/environnement/753288/pas-question-de-sacrifier-la-riviere-magpie-previennent-des-innus-et-elus-de-la-cote-nord"" target=""_blank"">tout futur projet de barrage</a>. Après avoir obtenu le statut de « personnalité juridique » pour la rivière, en 2021, ils tentent maintenant de l’inscrire au registre d'aires protégées.;
+La rivière du Petit Mécatina, située à près de 400 km à l’est de Sept-Îles, a le potentiel d'alimenter annuellement environ 250 000 résidences. Mais pour construire deux centrales, comme évoqué dans le passé, il faudrait <a href=""https://www.ledevoir.com/environnement/787942/hydro-quebec-etudie-le-potentiel-de-la-riviere-du-petit-mecatina"" target=""_blank"">inonder un territoire de 228 km²</a>, soit la moitié de la superficie de l’île de Montréal.;
+Le barrage de Gull Island, dans le fleuve Chruchill, serait la solution la plus rentable pour le Québec. Elle nécessiterait toutefois une entente au préalable avec le gouvernement de Terre-Neuve-et-Labrador. Des communautés innues locales menacent aussi de bloquer la construction du barrage en passant par les tribunaux.","Rivière Magpie:
+Rivière du Petit Mécatina:
+Fleuve Churchill",,Q2
+Q1-2,Carte,Parcs éoliens,pylone,Des citoyens des régions où vous comptez installer ces nouveaux parcs s'inquiètent de la pollution visuelle et sonore que les éoliennes pourraient entraîner. Cliquez sur les territoires ciblés pour connaître les défis qui vous y attendent.,"Environ 200 éoliennes seraient construites dans les MRC de La Côte-de-Beaupré et de Charlevoix. Ses promoteurs, Énergir et Boralex, ont <a href=""https://www.ledevoir.com/environnement/777995/environnement-quand-l-eolien-risque-de-menacer-des-especes-en-peril"" target=""_blank"">mal évalué les répercussions potentielles du projet sur la faune</a>, notamment sur certaines espèces d’oiseaux, de chauves-souris et pour le caribou forestier.;
+Les projets éoliens ne sont pas les bienvenus dans la région : c’est le message qu’ont envoyé de nombreux agriculteurs de la Montérégie, en 2015, en manifestant derrière le volant de leurs tracteurs. L'implantation d'une éolienne requiert <a href=""https://www.ledevoir.com/economie/773989/energie-ces-eoliennes-qui-pousseront-dans-le-jardin-des-quebecois"" target=""_blank"">une superficie d'un hectare</a>.;
+Devant la croissance rapide des MRC des Pays-d’en-Haut et des Laurentides, le réseau d’Hydro-Québec peine à répondre à la demande d’électricité. La population locale est pourtant <a href=""https://www.ledevoir.com/societe/541262/st-adolphe-d-howard-un-gachis-signe-hydro-quebec"" target=""_blank"">très mobilisée contre l’ajout de lignes électriques</a>, un frein majeur à l’instauration d’un parc éolien.;","Projets «Des Neiges»:
+Saint-Cyprien-de-Napierville:
+Saint-Adolphe-d’Howard",,Q2
+Q1-3,texteBoutonSimple,Centrale nucléaire,pylone,"Votre décision de relancer le nucléaire au Québec déclenche un tollé à cause du manque de sécurité des centrales et de la question <a href=""https://www.ledevoir.com/environnement/715428/a-chalk-river-la-preuve-du-stockage-de-dechets-radioactifs-reste-a-faire"" target=""_blank"">des déchets radioactifs</a>, qui ne se dissolvent pas dans la nature. Le CA d'Hydro-Québec vous avertit : vous n'êtes qu'à un poil d'être démis de vos fonctions.",,,,Q2
+Q1-4,texteBoutonSimple,Centrales solaires,pylone,"L’installation de panneaux solaires est moins controversée que la création de barrages hydroélectriques et de parcs éoliens, particulièrement lorsque ces panneaux sont posés sur des toits. Le Québec risque toutefois de manquer d’électricité d’ici la fin de votre mandat – particulièrement en soirée et l'hiver, puisque l'ensoleillement est limité.",,,,Q2
+Q2,ChoixReponse,Question 2 / 8,pylone,Plusieurs de vos centrales hydroélectriques approchent de leur fin de vie utile. Souhaitez-vous lancer une modernisation généralisée du réseau d'ici la fin de votre premier mandat?,,"Moderniser le réseau en&nbsp;entier:
+Remplacer uniquement les turbines défectueuses","-6_2_2_0;
+-1_0_0_0;",Q2-2
+Q2-2,texteBoutonSimple,Modernisation,pylone,"Vous avez beaucoup de pain sur la planche&nbsp;: ajout et réfection de turbines, construction de nouvelles lignes de transport, optimisation du réseau de distribution... Le réseau actuel sera pleinement optimisé d'ici la fin de votre premier mandat.",,,,Q3
+Q3,ChoixReponse,Question 3 / 8,pylone,"Au Québec, le chauffage des maisons correspond à la moitié de l'énergie consommée par les ménages. Comment réduisez-vous la demande de vos clients résidentiels lors des grands froids?",,"Subventionner plus largement les travaux d’isolation des&nbsp;maisons:
+Faire payer les excès d’utilisation en période de&nbsp;pointe:
+Subventionner l’achat de&nbsp;thermopompes","-2_2_1_1;
+0_0_1_0;
+-1_1_1_1;","Q4;
+Q3-2;
+Q3-3"
+Q3-2,MultiSelection,Périodes de pointe,pylone,Quels clients ciblez-vous pour augmenter les tarifs lors de grands froids? Vous pouvez en sélectionner plusieurs.,,"Les ménages dans une maison de plus d'un&nbsp;étage:
+Les ménages qui gagnent plus de 120&nbsp;000&nbsp;$:
+Tous les clients industriels","2_2_1_-2;
+2_2_1_-1;
+2_2_2_-1;","Q3-2-1;
+Q3-2-1;
+Q3-2-2_Q3-2-3"
+Q3-2-1,texteBoutonSimple,Périodes de pointe,pylone,"La Régie de l’énergie approuve votre demande et augmente le prix de l'électricité pour ces clients. Votre budget augmente de 8&nbsp;jetons, mais des citoyens se mobilisent pour contester cette décision et votre leadership. ",,,,Q4
+Q3-2-2,texteBoutonSimple,Périodes de pointe,pylone,"C'était également <a href=""https://www.ledevoir.com/economie/698388/energie-hydro-plaide-la-necessite-de-hausser-ses-tarifs-industriels-pour-eviter-un-trou-financier"" target=""_blank"">la position de votre prédecesseure</a>, mais les entreprises de centres de données sont mécontentes de votre choix. Une majorité de celles qui devaient s'établir au Québec se tournent finalement vers l'Ontario.",,,,Q4
+Q3-2-3,texteBoutonSimple,Périodes de pointe,pylone,Les critiques à l'endroit d'Hydro-Québec fusent devant des hausses de prix si importantes. Attention à ne pas perdre trop de popularité au cours de vos prochaines décisions ou elles pourraient vous coûter votre poste.,,,,Q4
+Q3-3,texteBoutonSimple,Thermopompes,pylone,"Les thermopompes, qui servent de climatiseur ou d'appareil de chauffage en déplaçant l'air chaud vers l'intérieur ou l'extérieur, cessent de fonctionner lorsque les températures sont trop basses (de -15 à -25°C, selon les modèles). Elles ne sont donc pas une solution au manque de puissance lors de grands froids.",,,,Q4
+Q4,ChoixReponse,Question 4 / 8,pylone,Un million de ménages ont été privés de courant en avril&nbsp;2023 après une tempête de verglas. Des citoyens et des experts réclament l'enfouissement des fils électriques. Que faites-vous?,,"Enfouir toutes les lignes électriques:
+Dégager la végétation près des&nbsp;lignes","-20_0_0_2;
+-1_0_0_0;",Q4-1
+Q4-1,texteBoutonSimple,Enfouissement des fils,pylone,"Une maigre proportion des fils électriques sont enfouis au Québec. Même si le gouvernement juge que le projet d'enfouir la totalité d'entre eux serait trop coûteux, des experts rétorquent qu'il serait pertinent de le faire <a href=""https://www.ledevoir.com/societe/788412/l-enfouissement-des-fils-electriques-au-dela-des-couts"" target=""_blank"">de façon graduelle</a>. ",,,,B1
+B1,Bilan,"2028&nbsp;<span style=""color:#336196""> Bilan du 1<sup>er</sup>&nbsp;mandat</span>",pylone,"Depuis votre arrivée à la tête d'Hydro-Québec, il y a cinq ans, les besoins en énergie ont augmenté de 10 TWh dans la province. Grâce aux investissements faits pendant votre premier mandat, la capacité annuelle de production d’Hydro-Québec a <b>*augmentediminue* de *newProd*</b>, une quantité *suffisanteinsuffisante* pour répondre aux besoins immédiats de la population.","barrage:Puisque le barrage hydroélectrique est toujours en construction, il n'est pas comptabilisé dans votre bilan énergétique. Dans sept ans, il ajoutera 9 TWh au portefeuille énergétique du Québec.;
+jetons15:Attention à ne pas dépenser tout le budget d’Hydro-Québec… la facture (salée) devrait être répercutée sur les citoyens.;
+environnement0:L’Assemblée nationale adopte une motion à l’unanimité pour vous demander de recentrer le mandat d’Hydro-Québec autour de l’atteinte de la carboneutralité en 2050.;
+popularite0:Un sondage révèle que les décisions d’Hydro-Québec sont hautement impopulaires auprès de la population. Le premier ministre vous rappelle que la satisfaction de votre clientèle devrait figurer dans le haut de votre liste de priorités. ",,,Q5
+Q5,ChoixReponse,Question 5 / 8,ampoule,"Les experts prédisent qu’au cours des cinq prochaines années, la demande augmentera encore de 15&nbsp;TWh. Souhaitez-vous...",,"Augmenter la production d'électricité:
+Diminuer la consommation:
+Les deux","0_0_0_0;
+0_0_0_0;
+0_0_0_0","Q5-1;
+Q5-3;
+Q5-2;"
+Q5-1,Repartition,Question 5 / 8,ampoule,Quels projets additionnels souhaitez-vous financer?,,"Barrage hydroélectrique:
+Parcs éoliens:
+Centrale nucléaire:
+Centrales solaires","-13_9_0_-1;
+-6_4_1_0;
+-8_6_-5_-5;
+-2_1_1_1;",Q6
+Q5-2,Repartition,Question 5 / 8,ampoule,Quels projets additionnels souhaitez-vous financer?,,"Barrages hydroélectriques:
+Parcs éoliens:
+Centrale nucléaire:
+Centrales solaires","-13_9_0_-1;
+-6_4_1_0;
+-8_6_-5_-5;
+-2_1_1_1;",Q5-3
+Q5-3,MultiSelection,Question 5 / 8,ampoule,Comment comptez-vous parvenir à réduire davantage la consommation d'électricité au Québec?,,"Augmenter le prix pour tous les&nbsp;clients:
+Forcer les grandes industries à réduire leur consommation de&nbsp;moité:
+Subventionner l'achat de panneaux solaires par les&nbsp;ménages","4_7_2_-2;
+0_4_2_-2;
+-5_4_2_2;",Q6
+Q6,ChoixReponse,Question 6 / 8,ampoule,"Le Québec consomme 28&nbsp;TWh d'énergie provenant de la centrale de Churchill Falls, dont le contrat <a href=""https://www.ledevoir.com/politique/quebec/782718/legault-evoque-des-montants-qui-pourraient-etre-verses-a-terre-neuve-avant-2041"" target=""_blank"">prend fin en&nbsp;2041</a>. Terre-Neuve-et-Labrador propose à Québec de le renouveler immédiatement pour 16&nbsp;jetons. Le gouvernement devrait-il accepter?",,"Oui:
+Non","-16_0_0_1;
+0_0_0_-2;","Q6-1;
+Q6-2"
+Q6-1,texteBoutonSimple,Churchill Falls,ampoule,"Depuis la signature de l'entente, en 1969, Hydro-Québec achète l’électricité produite à Churchill Falls à 0,2¢ le&nbsp;kWh, puis <a href=""https://www.ledevoir.com/politique/782246/analyse-la-conscience-tranquille-francois-legault-s-en-va-a-terre-neuve-et-labrador"" target=""_blank"">la revend à fort prix sur les marchés extérieurs</a> (8,2¢ le&nbsp;kWh en 2022). Son renouvelement assure au Québec d'avoir une source continue d'énergie alors que la province poursuit ses efforts de décarbonation.",,,,Cata1
+Q6-2,texteBoutonSimple,Churchill Falls,ampoule,"Depuis la signature de l'entente, en 1969, Hydro-Québec achète l’électricité produite à Churchill Falls à 0,2¢ le&nbsp;kWh, puis <a href=""https://www.ledevoir.com/politique/782246/analyse-la-conscience-tranquille-francois-legault-s-en-va-a-terre-neuve-et-labrador"" target=""_blank"">la revend à fort prix sur les marchés extérieurs</a> (8,2¢ le&nbsp;kWh en 2022). La fin de ce contrat entraîne de l'incertitude pour l'avenir énergétique de la province, qui doit maintenant s'assurer de redoubler d'ardeur dans sa production.",,,,Cata1
+Cata1,Catastrophe,Catastrophe,redpink,"Un ouragan balaie les provinces de l’Atlantique. Le Québec évite le pire, mais de forts vents secouent tout de même les régions de l’Est. ",,"Puisque vous n’avez pas investi pour moderniser le réseau actuel, vous devez réparer plusieurs lignes de distribution et rémunérer des centaines de travailleurs en heures supplémentaire. Cette opération vous coûte <b>8&nbsp;jetons</b>.:
+Puisque vous avez investi pour moderniser le réseau actuel, la population de la région évite le pire. La population locale vous en est reconnaissante.","-8_0_0_-1;
+0_0_0_1;",Q7
+Q7,ChoixReponse,Question 7 / 8,ampoule,"Maintenant que la demande d'électricité frôle la production du Québec, la question de la vente de 20&nbsp;TWh d'électricité aux États-Unis est sur toutes les lèvres. Est-ce qu’Hydro-Québec va…",,"Renouveler ses contrats pour 20&nbsp;ans:
+Cesser d’exporter son hydroélectricité","12_0_0_0;
+0_20_0_0;","Q7-1;
+Q7-2"
+Q7-1,texteBoutonSimple,Ententes d'exportation,ampoule,"En renouvelant ces contrats d'exportation, vous assurez un revenu continu, basé sur les prix du marché, à Hydro-Québec. N'oubliez pas toutefois que la province a elle-même des besoins grandissants en électricité.",,,,Q8
+Q7-2,texteBoutonSimple,Ententes d'exportation,ampoule,"En mettant fin à ces contrats, Hydro-Québec augmente de plus de 10% sa quantité d'énergie disponible pour ses clients. Cette décision coupe toutefois la société d'État d'une de ses sources de revenus les plus importantes.",,,,Q8
+Q8,ChoixReponse,Question 8 / 8,ampoule,"Les éoliennes et les panneaux solaires produisent de l'énergie par intermittence, soit seulement lorsqu'il vente ou qu'il fait soleil. Souhaitez-vous qu'Hydro-Québec se lance dans la filiale des batteries <a href=""https://www.ledevoir.com/environnement/784530/des-batteries-aux-molecules-synthetiques-pour-assurer-la-transition-energetique"" target=""_blank"">pour stocker des surplus</a>? ",,"Oui:
+Non","-5_3_2_1;
+0_0_0_0;",B2
+B2,Bilan,"2033&nbsp;<span style=""color:#336196"">Bilan des deux&nbsp;mandats</span>",ampoule,Fin du jeu,"TWh >= 25 TWh & environnement > 0 :<b>Félicitations!</b><br>Vous avez réussi à équilibrer la production (qui a *augmentediminue* de *newProd*) et la demande d'électricité tout en respectant les objectifs climatiques du Québec.;
+TWh < 25 TWh & environnement > 0 :Vous n'avez pas réussi à équilibrer la production (qui a *augmentediminue* de *newProd*) et la demande d'électricité, qui est 25 TWh plus élevée qu'il y a dix ans. En restant sur cette trajectoire, la province n'aura d'autre choix que de faire appel à des énergies fossiles pour combler les besoins de la population. Cette solution de dernier recours pourrait remettre en cause l'atteinte de la carboneutralité en 2050.;
+TWh >= 25 TWh & environnement <= 0 :Vous avez réussi à équilibrer la production (qui a *augmentediminue* de *newProd*) et la demande d'électricité, mais à cause de vos décisions, le Québec ne réussira pas à atteindre son objectif de carboneutralité en 2050.;
+TWh < 25 TWh & environnement <= 0 :Vous n'avez pas réussi à équilibrer la production (qui a *augmentediminue* de *newProd*) et la demande d'électricité, qui est 25 TWh plus élevée qu'il y a dix ans. Vous avez également ralenti la trajectoire du Québec vers la carboneutralité.;
+Jetons > 0 :Grâce à une saine gestion des finances de la société d'État, vous permettez à votre successeur de faire face à la prochaine catastrophe sans faire vaciller Hydro-Québec vers l'endettement.;
+Jetons <= 0 :Vos deux mandats se terminent avec des coffres plutôt vides ce qui inquiète votre successeur, qui ne pourrait pas faire face à une autre catastrophe en évitant l'endettement.;
+Popularité >= 4 :Vous laissez d'ailleurs une société d'État au sommet de sa popularité.;
+Popularité entre -2 et 4 :La popularité de la société d'État reste inchangée par rapport au jour où vous en avez assuré le leadership.;
+Popularité <= -2 :La société d'État a d'ailleurs très mauvaise presse depuis que vous en avez pris les rennes.",,,Creds
+Creds,texteBoutonSimple,Crédits,centrale,Structure et textes par Laurianne Croteau. Direction artistique par Cédric Gagnon. Développement par Antoine Noreau et Catherine Bombardier.,,,,STARTOVER

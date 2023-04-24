@@ -1,0 +1,35 @@
+conditions,print
+"TWh >= 25 TWh & 
+environnement > 0 & 
+ChurchillFalls :","<b>Félicitations!</b><br>
+Vous avez réussi à équilibrer la production (qui a<b> *augmentediminue* de *newProd*</b>) et la demande d'électricité tout en respectant les objectifs climatiques du Québec."
+"TWh >= 25 TWh & 
+environnement > 0 
+& PASChurchillFalls :","<b>Bien essayé!</b><br>
+Vous avez réussi à équilibrer la production (qui a<b> *augmentediminue* de *newProd*</b>) et la demande d'électricité jusqu'à 2041 tout en respectant les objectifs climatiques du Québec. Mais puisque vous n'avez pas renouvelé l'entente sur Churchill Falls (qui fournit 28&nbsp;TWh d'énergie par année), le Québec n'a que huit ans pour <b>trouver de nouvelles sources d'approvisionnement</b>."
+"TWh < 25 TWh & 
+environnement > 0 :","<b>Bien essayé!</b><br>
+Vous n'avez pas réussi à équilibrer la production (qui a<b> *augmentediminue* de *newProd*</b>) et la demande d'électricité, qui est de <b>25&nbsp;TWh plus élevée</b> qu'il y a dix ans. La province devra se tourner vers des énergies non-renouvelables pour combler les besoins de la population, ce qui risque de <b>remettre en cause l'atteinte de la carboneutralité</b> en&nbsp;2050."
+"TWh >= 25 TWh & 
+environnement <= 0  
+& ChurchillFalls :","<b>Bien essayé!</b><br>
+Vous avez réussi à équilibrer la production (qui a<b> *augmentediminue* de *newProd*</b>) et la demande d'électricité, mais à cause de vos décisions, le Québec <b>ne réussira pas</b> à atteindre son objectif de carboneutralité en&nbsp;2050."
+"TWh >= 25 TWh & 
+environnement <= 0 & 
+PASChurchillFalls :","<b>Bien essayé!</b><br>
+Vous avez réussi à équilibrer la production (qui a<b> *augmentediminue* de *newProd*</b>) et la demande d'électricité jusqu'à 2041. Puisque vous avez refusé l'offre de Terre-Neuve-et-Labrador de renouveler l'entente sur Churchill Falls (qui fournit 28&nbsp;TWh d'énergie par année), le Québec devra <b>trouver de nouvelles sources d'approvisionnement</b> ces huit prochaines années. Par ailleurs, à cause de vos décisions, le Québec <b>ne réussira pas</b> à atteindre son objectif de carboneutralité en&nbsp;2050."
+"TWh < 25 TWh & 
+environnement <= 0 :","<b>Catastrophe!</b><br>
+Vous n'avez pas réussi à équilibrer la production (qui a<b> *augmentediminue* de *newProd*</b>) et la demande d'électricité, qui est de <b>25&nbsp;TWh plus élevée</b> qu'il y a dix ans. Vous avez également ralenti la trajectoire du Québec vers la carboneutralité."
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------,
+Si barrage mandat 1,Votre barrage hydroélectrique est toujours en construction et devrait être fonctionnel dans deux à cinq ans. La production d'électricité <b>augmentera alors de 9&nbsp;TWh</b>.
+Si barrage mandat 2,Votre barrage hydroélectrique est toujours en construction et devrait être fonctionnel dans sept à dix ans. La production d'électricité <b>augmentera alors de 9&nbsp;TWh</b>.
+Si barrage mandat 1 + 2,"Vos barrages électriques sont toujours en construction. Lorsqu'ils seront fonctionnels, dans cinq et dix ans, la production d'électricité <b>augmentera de 18&nbsp;TWh</b>."
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------,
+Jetons > 0 :,"Grâce à une saine gestion des finances de la société d'État, vous permettez à votre successeur de faire face à la prochaine catastrophe sans affecter le portefeuille des Québécois."
+Jetons <= 0 :,"Vos deux mandats se terminent avec <b>des coffres plutôt vides</b>, ce qui inquiète votre successeur. Une autre catastrophe serait désastreuse pour le portefeuille des Québécois."
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------,
+Popularité >= 4 :,Vous laissez d'ailleurs une société d'État au sommet de sa popularité.
+Popularité entre -2 et 4 :,La popularité de la société d'État reste d'ailleurs inchangée par rapport au jour où vous en avez assuré le leadership.
+Popularité <= -2 :,La société d'État a d'ailleurs très mauvaise presse depuis que vous en avez pris la direction.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------,
