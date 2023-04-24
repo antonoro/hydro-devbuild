@@ -417,6 +417,9 @@ main {
       text-transform: uppercase;
       font-size: $intro-text-size;
       text-align: center;
+      position: relative;
+      bottom: 25px;
+      font-weight: 500;
     }
   }
 
@@ -488,7 +491,7 @@ main {
               align-items: center;
               border: solid 1px black;
               &.red{
-                border: solid 1px $hydroRed;
+                border: solid 1px $black;
                 background-color: $hydroRed;
               }
               .gaugeColor{
@@ -499,6 +502,9 @@ main {
                 }
                 &.red{
                   background-color: $hydroRed;
+                }
+                &.lightblue{
+                  background-color: $hydroBlueDim;
                 }
               }
               .value{
@@ -525,6 +531,36 @@ main {
                   height: 100%;
                   width: 100%;
                   flex-direction: row;
+
+                  .labelHolder{
+                    flex:49%;
+                    p{
+
+                    }
+
+                  }
+                  .gaugeSeparator{
+                    height: calc(100% - 2px);
+                    width: 2px;
+                    color: white;
+                    background-color: white;
+                  }
+
+                }
+
+                &.gaugeExplain{
+                  height: 100%;
+                  width: 100%;
+                  flex-direction: row;
+
+                  .budgetStamp{
+                    position: absolute;
+                    width: 50%;
+                    background-color: $hydroBlueMid;
+                    height: 100%;
+                    border-top: 1px solid $black;
+                    border-bottom: 1px solid $black;
+                  }
 
                   .labelHolder{
                     flex:49%;
@@ -629,6 +665,10 @@ main {
                 display: flex;
                 justify-content: right;
                 align-items: center;
+
+                &.lightblue{
+                  background-color: $white;
+                }
                 p{
                   margin: 0;
                   padding: 0 5px 0 0;
@@ -746,6 +786,11 @@ main {
     align-items: center;
     background-color: white;
     border-radius: 10px;
+
+
+    position: relative;
+    top: 15px;
+
     .startbutton{
       border: white solid 1px;
       background-color: white;
@@ -760,6 +805,9 @@ main {
         margin: 0px;
         pointer-events: none;
         color: black;
+        position: relative;
+        top: 1.5px;
+        letter-spacing: 1px;
       }
       cursor: pointer;
 
@@ -787,7 +835,8 @@ main {
       .header{
         .massiveTitle{
           h2{
-            font-size: 28pt;
+            //font-size: 28pt;
+            font-size: 23pt;
             font-family: "graphik";
             font-weight: 500;
             text-align: center;
@@ -852,6 +901,46 @@ main {
 
 
     }
+
+    .choices[rightarrows="false"]{
+      .row{
+        .choicebutton, .selectionbutton{
+          .butn{
+            .arrowsChoices{
+              display: none;
+            }
+          }
+        }
+      }
+    }
+
+    .choices[rightarrows="true"]{
+      .row{
+        .choicebutton, .selectionbutton{
+
+          .butn{
+            .arrowsChoices{
+              span{
+                color: $black;
+                position: relative;
+                bottom: 5px;
+                font-size: 27pt;
+              }
+            }
+
+            &.selected{
+              .arrowsChoices{
+                 span{
+                  color: $white;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+
+
 
     .printprompt{
       display: flex;
@@ -1164,6 +1253,8 @@ main {
 
       font-size: 10pt;
       letter-spacing: 1px;
+      position: relative;
+      top: 1.5px;
     }
   }
 }
@@ -1506,6 +1597,7 @@ section.black-bkg{
           }
 
           .temporaryInfo{
+            display: none;
             position: absolute;
             top: 0;
             left: 0;
